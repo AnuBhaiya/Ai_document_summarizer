@@ -1,0 +1,4 @@
+llama-index
+pypdf
+llama-index-llms-openai
+openai  
